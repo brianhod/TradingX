@@ -1,0 +1,9 @@
+diff a/TradingXTest/Forex.cs b/TradingXTest/Forex.cs	(rejected hunks)
+@@ -49,7 +49,6 @@
+             //testHigh = 0;
+             prevCriticalLow = 0;
+ 
+-            buyOrSell = false;
+             buyOrSell = true;
+ 
+             myTable = new DataTable();

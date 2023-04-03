@@ -1,0 +1,20 @@
+C:\Users\Hein\Documents\Visual Studio 2010\Projects\TradingXTest\TradingXTest\bin\Debug\TradingXTest.exe
+C:\Users\Hein\Documents\Visual Studio 2010\Projects\TradingXTest\TradingXTest\bin\Debug\TradingXTest.pdb
+C:\Users\Hein\Documents\Visual Studio 2010\Projects\TradingXTest\TradingXTest\obj\x86\Debug\TradingXTest.exe
+C:\Users\Hein\Documents\Visual Studio 2010\Projects\TradingXTest\TradingXTest\obj\x86\Debug\TradingXTest.pdb
+C:\Users\Hein\Documents\Visual Studio 2010\Projects\TradingXTest\TradingXTest\obj\x86\Debug\TradingXTest.csprojResolveAssemblyReference.cache
+G:\Users\Ace\Documents\Visual Studio 2010\Projects\TradingXTest\TradingXTest\obj\x86\Debug\TradingXTest.exe
+G:\Users\Ace\Documents\Visual Studio 2010\Projects\TradingXTest\TradingXTest\obj\x86\Debug\TradingXTest.pdb
+G:\Users\Ace\Documents\Visual Studio 2010\Projects\TradingXTest\TradingXTest\bin\Debug\TradingXTest.exe
+G:\Users\Ace\Documents\Visual Studio 2010\Projects\TradingXTest\TradingXTest\bin\Debug\TradingXTest.pdb
+G:\Users\Ace\Documents\Visual Studio 2010\Projects\TradingXTest\TradingXTest\obj\x86\Debug\TradingXTest.csprojResolveAssemblyReference.cache
+G:\Users\Ace\Documents\tradingx\TradingXTest\obj\x86\Debug\TradingXTest.exe
+G:\Users\Ace\Documents\tradingx\TradingXTest\obj\x86\Debug\TradingXTest.pdb
+G:\Users\Ace\Documents\tradingx\TradingXTest\bin\Debug\TradingXTest.exe
+G:\Users\Ace\Documents\tradingx\TradingXTest\bin\Debug\TradingXTest.pdb
+G:\Users\Ace\Documents\tradingx\TradingXTest\obj\x86\Debug\TradingXTest.csprojResolveAssemblyReference.cache
+C:\Users\danny.CARDINAL\Documents\tradingx\TradingXTest\obj\x86\Debug\TradingXTest.exe
+C:\Users\danny.CARDINAL\Documents\tradingx\TradingXTest\obj\x86\Debug\TradingXTest.pdb
+C:\Users\danny.CARDINAL\Documents\tradingx\TradingXTest\bin\Debug\TradingXTest.exe
+C:\Users\danny.CARDINAL\Documents\tradingx\TradingXTest\bin\Debug\TradingXTest.pdb
+C:\Users\danny.CARDINAL\Documents\tradingx\TradingXTest\obj\x86\Debug\TradingXTest.csprojResolveAssemblyReference.cache

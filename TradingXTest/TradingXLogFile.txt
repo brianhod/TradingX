@@ -1,0 +1,1129 @@
+Constructor entered 10:20:24 AM
+FindOverallHighsAndLows() 0.9775 0.9773 0.9771 10:22:39 AM
+FindOverallHighsAndLows() 0.9775 0.9773 0.9771 10:22:54 AM
+FindOverallHighsAndLows() 0.9773 0.9771 0.9766 10:23:12 AM
+FindOverallHighsAndLows() 0.9773 0.9771 0.9766 10:23:27 AM
+FindOverallHighsAndLows() 0.9773 0.9771 0.9766 10:23:42 AM
+FindOverallHighsAndLows() 0.9773 0.9771 0.9766 10:23:57 AM
+FindOverallHighsAndLows() 0.9773 0.9771 0.9766 10:24:12 AM
+FindOverallHighsAndLows() 0.9773 0.9771 0.9766 10:24:26 AM
+FindOverallHighsAndLows() 0.9773 0.9771 0.9766 10:24:41 AM
+FindOverallHighsAndLows() 0.9773 0.9771 0.9766 10:24:55 AM
+FindOverallHighsAndLows() 0.9771 0.9766 0.9763 10:27:16 AM
+FindOverallHighsAndLows() 0.9771 0.9766 0.9763 10:27:35 AM
+FindOverallHighsAndLows() 0.9771 0.9766 0.9763 10:27:52 AM
+FindOverallHighsAndLows() 0.9771 0.9766 0.9763 10:28:08 AM
+FindOverallHighsAndLows() 0.9771 0.9766 0.9763 10:28:24 AM
+FindOverallHighsAndLows() 0.9771 0.9766 0.9763 10:28:40 AM
+FindOverallHighsAndLows() 0.9771 0.9766 0.9763 10:28:55 AM
+FindOverallHighsAndLows() 0.9771 0.9766 0.9763 10:29:10 AM
+FindOverallHighsAndLows() 0.9766 0.9763 0.9768 10:29:28 AM
+Found new low 10:29:28 AM
+FindOverallHighsAndLows() 0.9766 0.9763 0.9768 10:29:43 AM
+FindOverallHighsAndLows() 0.9766 0.9763 0.9768 10:29:59 AM
+FindOverallHighsAndLows() 0.9766 0.9763 0.9768 10:30:14 AM
+FindOverallHighsAndLows() 0.9766 0.9763 0.9768 10:30:29 AM
+FindOverallHighsAndLows() 0.9766 0.9763 0.9768 10:30:44 AM
+FindOverallHighsAndLows() 0.9766 0.9763 0.9768 10:30:59 AM
+FindOverallHighsAndLows() 0.9766 0.9763 0.9768 10:31:15 AM
+FindOverallHighsAndLows() 0.9763 0.9768 0.9774 10:31:32 AM
+FindOverallHighsAndLows() 0.9763 0.9768 0.9774 10:31:47 AM
+FindOverallHighsAndLows() 0.9763 0.9768 0.9774 10:32:02 AM
+FindOverallHighsAndLows() 0.9763 0.9768 0.9774 10:32:17 AM
+FindOverallHighsAndLows() 0.9763 0.9768 0.9774 10:32:32 AM
+FindOverallHighsAndLows() 0.9763 0.9768 0.9774 10:32:46 AM
+FindOverallHighsAndLows() 0.9763 0.9768 0.9774 10:33:01 AM
+FindOverallHighsAndLows() 0.9763 0.9768 0.9774 10:33:16 AM
+FindOverallHighsAndLows() 0.9768 0.9774 0.9777 10:33:33 AM
+FindOverallHighsAndLows() 0.9768 0.9774 0.9777 10:33:48 AM
+FindOverallHighsAndLows() 0.9768 0.9774 0.9777 10:34:02 AM
+FindOverallHighsAndLows() 0.9768 0.9774 0.9777 10:34:17 AM
+FindOverallHighsAndLows() 0.9768 0.9774 0.9777 10:34:32 AM
+FindOverallHighsAndLows() 0.9768 0.9774 0.9777 10:34:47 AM
+FindOverallHighsAndLows() 0.9768 0.9774 0.9777 10:35:02 AM
+FindOverallHighsAndLows() 0.9768 0.9774 0.9777 10:35:17 AM
+FindOverallHighsAndLows() 0.9768 0.9774 0.9777 10:35:32 AM
+FindOverallHighsAndLows() 0.9774 0.9777 0.9779 10:35:49 AM
+FindOverallHighsAndLows() 0.9774 0.9777 0.9779 10:36:04 AM
+FindOverallHighsAndLows() 0.9774 0.9777 0.9779 10:36:18 AM
+FindOverallHighsAndLows() 0.9774 0.9777 0.9779 10:36:34 AM
+FindOverallHighsAndLows() 0.9774 0.9777 0.9779 10:36:48 AM
+FindOverallHighsAndLows() 0.9774 0.9777 0.9779 10:37:03 AM
+FindOverallHighsAndLows() 0.9774 0.9777 0.9779 10:37:17 AM
+FindOverallHighsAndLows() 0.9774 0.9777 0.9779 10:37:31 AM
+FindOverallHighsAndLows() 0.9774 0.9777 0.9779 10:37:46 AM
+FindOverallHighsAndLows() 0.9777 0.9779 0.9771 10:38:03 AM
+Found new high  10:38:03 AM
+FindOverallHighsAndLows() 0.9777 0.9779 0.9771 10:38:20 AM
+FindOverallHighsAndLows() 0.9777 0.9779 0.9771 10:38:36 AM
+FindOverallHighsAndLows() 0.9777 0.9779 0.9771 10:38:51 AM
+FindOverallHighsAndLows() 0.9777 0.9779 0.9771 10:39:05 AM
+FindOverallHighsAndLows() 0.9777 0.9779 0.9771 10:39:20 AM
+FindOverallHighsAndLows() 0.9777 0.9779 0.9771 10:39:35 AM
+FindOverallHighsAndLows() 0.9777 0.9779 0.9771 10:39:50 AM
+FindOverallHighsAndLows() 0.9779 0.9771 0.9768 10:40:08 AM
+FindOverallHighsAndLows() 0.9779 0.9771 0.9768 10:40:22 AM
+FindOverallHighsAndLows() 0.9779 0.9771 0.9768 10:40:37 AM
+FindOverallHighsAndLows() 0.9779 0.9771 0.9768 10:40:53 AM
+FindOverallHighsAndLows() 0.9779 0.9771 0.9768 10:41:08 AM
+FindOverallHighsAndLows() 0.9779 0.9771 0.9768 10:41:23 AM
+FindOverallHighsAndLows() 0.9779 0.9771 0.9768 10:41:41 AM
+FindOverallHighsAndLows() 0.9779 0.9771 0.9768 10:41:58 AM
+FindOverallHighsAndLows() 0.9771 0.9768 0.9769 10:42:16 AM
+Found new low 10:42:16 AM
+FindOverallHighsAndLows() 0.9771 0.9768 0.9769 10:42:31 AM
+FindOverallHighsAndLows() 0.9771 0.9768 0.9769 10:42:46 AM
+FindOverallHighsAndLows() 0.9771 0.9768 0.9769 10:43:01 AM
+FindOverallHighsAndLows() 0.9771 0.9768 0.9769 10:43:16 AM
+FindOverallHighsAndLows() 0.9771 0.9768 0.9769 10:43:31 AM
+FindOverallHighsAndLows() 0.9771 0.9768 0.9769 10:43:45 AM
+FindOverallHighsAndLows() 0.9771 0.9768 0.9769 10:44:00 AM
+FindOverallHighsAndLows() 0.9768 0.9769 0.9769 10:44:17 AM
+Found new high  10:44:17 AM
+CurrVal: l High : 0.9779 nextLow: 0.9768 nextHigh: 0.9769
+                                        Found Critical High 0.9779  HH
+FindOverallHighsAndLows() 0.9768 0.9769 0.9769 10:44:33 AM
+FindOverallHighsAndLows() 0.9768 0.9769 0.9769 10:44:48 AM
+FindOverallHighsAndLows() 0.9768 0.9769 0.9769 10:45:03 AM
+FindOverallHighsAndLows() 0.9768 0.9769 0.9769 10:45:20 AM
+FindOverallHighsAndLows() 0.9768 0.9769 0.9769 10:45:36 AM
+FindOverallHighsAndLows() 0.9768 0.9769 0.9769 10:45:52 AM
+FindOverallHighsAndLows() 0.9768 0.9769 0.9769 10:46:08 AM
+FindOverallHighsAndLows() 0.9769 0.9769 0.9771 10:46:27 AM
+Found new low 10:46:27 AM
+CurrVal: h nextLow: 0.9768 nextHigh: 0.9769 nextNextLow: 0.9769
+FindOverallHighsAndLows() 0.9769 0.9769 0.9771 10:46:39 AM
+CurrVal: h nextLow: 0.9768 nextHigh: 0.9769 nextNextLow: 0.9769
+FindOverallHighsAndLows() 0.9769 0.9769 0.9771 10:46:50 AM
+CurrVal: h nextLow: 0.9768 nextHigh: 0.9769 nextNextLow: 0.9769
+FindOverallHighsAndLows() 0.9769 0.9769 0.9771 10:47:07 AM
+CurrVal: h nextLow: 0.9768 nextHigh: 0.9769 nextNextLow: 0.9769
+FindOverallHighsAndLows() 0.9769 0.9769 0.9771 10:47:27 AM
+CurrVal: h nextLow: 0.9768 nextHigh: 0.9769 nextNextLow: 0.9769
+FindOverallHighsAndLows() 0.9769 0.9769 0.9771 10:47:38 AM
+CurrVal: h nextLow: 0.9768 nextHigh: 0.9769 nextNextLow: 0.9769
+FindOverallHighsAndLows() 0.9769 0.9769 0.9771 10:47:48 AM
+CurrVal: h nextLow: 0.9768 nextHigh: 0.9769 nextNextLow: 0.9769
+FindOverallHighsAndLows() 0.9769 0.9769 0.9771 10:47:59 AM
+CurrVal: h nextLow: 0.9768 nextHigh: 0.9769 nextNextLow: 0.9769
+FindOverallHighsAndLows() 0.9769 0.9769 0.9771 10:48:12 AM
+CurrVal: h nextLow: 0.9768 nextHigh: 0.9769 nextNextLow: 0.9769
+FindOverallHighsAndLows() 0.9769 0.9769 0.9771 10:48:25 AM
+CurrVal: h nextLow: 0.9768 nextHigh: 0.9769 nextNextLow: 0.9769
+FindOverallHighsAndLows() 0.9769 0.9771 0.9775 10:48:40 AM
+CurrVal: h nextLow: 0.9768 nextHigh: 0.9769 nextNextLow: 0.9769
+FindOverallHighsAndLows() 0.9769 0.9771 0.9775 10:48:51 AM
+CurrVal: h nextLow: 0.9768 nextHigh: 0.9769 nextNextLow: 0.9769
+FindOverallHighsAndLows() 0.9769 0.9771 0.9775 10:49:01 AM
+CurrVal: h nextLow: 0.9768 nextHigh: 0.9769 nextNextLow: 0.9769
+FindOverallHighsAndLows() 0.9769 0.9771 0.9775 10:49:12 AM
+CurrVal: h nextLow: 0.9768 nextHigh: 0.9769 nextNextLow: 0.9769
+FindOverallHighsAndLows() 0.9769 0.9771 0.9775 10:49:21 AM
+CurrVal: h nextLow: 0.9768 nextHigh: 0.9769 nextNextLow: 0.9769
+FindOverallHighsAndLows() 0.9769 0.9771 0.9775 10:49:30 AM
+CurrVal: h nextLow: 0.9768 nextHigh: 0.9769 nextNextLow: 0.9769
+FindOverallHighsAndLows() 0.9769 0.9771 0.9775 10:49:40 AM
+CurrVal: h nextLow: 0.9768 nextHigh: 0.9769 nextNextLow: 0.9769
+FindOverallHighsAndLows() 0.9769 0.9771 0.9775 10:49:50 AM
+CurrVal: h nextLow: 0.9768 nextHigh: 0.9769 nextNextLow: 0.9769
+FindOverallHighsAndLows() 0.9769 0.9771 0.9775 10:49:59 AM
+CurrVal: h nextLow: 0.9768 nextHigh: 0.9769 nextNextLow: 0.9769
+FindOverallHighsAndLows() 0.9769 0.9771 0.9775 10:50:09 AM
+CurrVal: h nextLow: 0.9768 nextHigh: 0.9769 nextNextLow: 0.9769
+FindOverallHighsAndLows() 0.9769 0.9771 0.9775 10:50:19 AM
+CurrVal: h nextLow: 0.9768 nextHigh: 0.9769 nextNextLow: 0.9769
+FindOverallHighsAndLows() 0.9769 0.9771 0.9775 10:50:28 AM
+CurrVal: h nextLow: 0.9768 nextHigh: 0.9769 nextNextLow: 0.9769
+FindOverallHighsAndLows() 0.9771 0.9775 0.978 10:50:39 AM
+CurrVal: h nextLow: 0.9768 nextHigh: 0.9769 nextNextLow: 0.9769
+FindOverallHighsAndLows() 0.9771 0.9775 0.978 10:50:48 AM
+CurrVal: h nextLow: 0.9768 nextHigh: 0.9769 nextNextLow: 0.9769
+FindOverallHighsAndLows() 0.9771 0.9775 0.978 10:50:59 AM
+CurrVal: h nextLow: 0.9768 nextHigh: 0.9769 nextNextLow: 0.9769
+FindOverallHighsAndLows() 0.9771 0.9775 0.978 10:51:10 AM
+CurrVal: h nextLow: 0.9768 nextHigh: 0.9769 nextNextLow: 0.9769
+FindOverallHighsAndLows() 0.9775 0.978 0.9775 10:51:20 AM
+Found new high  10:51:20 AM
+FindOverallHighsAndLows() 0.9775 0.978 0.9775 10:51:36 AM
+FindOverallHighsAndLows() 0.9775 0.978 0.9775 10:51:50 AM
+FindOverallHighsAndLows() 0.9775 0.978 0.9775 10:52:04 AM
+FindOverallHighsAndLows() 0.9775 0.978 0.9775 10:52:19 AM
+FindOverallHighsAndLows() 0.9775 0.978 0.9775 10:52:34 AM
+FindOverallHighsAndLows() 0.9775 0.978 0.9775 10:52:48 AM
+FindOverallHighsAndLows() 0.9775 0.978 0.9775 10:53:02 AM
+FindOverallHighsAndLows() 0.9775 0.978 0.9775 10:53:17 AM
+FindOverallHighsAndLows() 0.978 0.9775 0.9777 10:55:36 AM
+Found new low 10:55:36 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.978 0.9775 0.9777 10:55:46 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.978 0.9775 0.9777 10:55:56 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.978 0.9775 0.9777 10:56:06 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.978 0.9775 0.9777 10:56:16 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.978 0.9775 0.9777 10:56:26 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.978 0.9775 0.9777 10:56:36 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.978 0.9775 0.9777 10:56:46 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.978 0.9775 0.9777 10:56:55 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.978 0.9775 0.9777 10:57:05 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.978 0.9775 0.9777 10:57:15 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.978 0.9775 0.9777 10:57:25 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.978 0.9775 0.9777 10:57:35 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.978 0.9775 0.9777 10:57:45 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.9775 0.9777 0.9779 10:57:57 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.9775 0.9777 0.9779 10:58:07 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.9775 0.9777 0.9779 10:58:17 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.9775 0.9777 0.9779 10:58:27 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.9775 0.9777 0.9779 10:58:37 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.9775 0.9777 0.9779 10:58:47 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.9775 0.9777 0.9779 10:58:56 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.9775 0.9777 0.9779 10:59:06 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.9775 0.9777 0.9779 10:59:16 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.9775 0.9777 0.9779 10:59:25 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.9775 0.9777 0.9779 10:59:36 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.9775 0.9777 0.9779 10:59:46 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.9777 0.9779 0.9782 11:02:02 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.9777 0.9779 0.9782 11:02:12 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.9777 0.9779 0.9782 11:02:22 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.9777 0.9779 0.9782 11:02:32 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.9777 0.9779 0.9782 11:02:42 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.9777 0.9779 0.9782 11:02:51 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.9777 0.9779 0.9782 11:03:01 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.9777 0.9779 0.9782 11:03:11 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.9777 0.9779 0.9782 11:03:21 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.9777 0.9779 0.9782 11:03:31 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.9777 0.9779 0.9782 11:03:41 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.9777 0.9779 0.9782 11:03:52 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.9777 0.9779 0.9782 11:04:02 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.9777 0.9779 0.9782 11:04:12 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.9777 0.9779 0.9782 11:04:23 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.9777 0.9779 0.9782 11:04:35 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.9777 0.9779 0.9782 11:04:45 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.9777 0.9779 0.9782 11:04:56 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.9777 0.9779 0.9782 11:05:06 AM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.978 nextNextLow: 0.9775
+FindOverallHighsAndLows() 0.9779 0.9782 0.9782 11:05:16 AM
+Found new high  11:05:16 AM
+FindOverallHighsAndLows() 0.9779 0.9782 0.9782 11:05:31 AM
+FindOverallHighsAndLows() 0.9779 0.9782 0.9782 11:05:45 AM
+FindOverallHighsAndLows() 0.9779 0.9782 0.9782 11:06:00 AM
+FindOverallHighsAndLows() 0.9782 0.9782 0.9776 11:06:17 AM
+FindOverallHighsAndLows() 0.9782 0.9782 0.9776 11:06:32 AM
+FindOverallHighsAndLows() 0.9782 0.9782 0.9776 11:06:47 AM
+FindOverallHighsAndLows() 0.9782 0.9782 0.9776 11:07:02 AM
+FindOverallHighsAndLows() 0.9782 0.9782 0.9776 11:07:16 AM
+FindOverallHighsAndLows() 0.9782 0.9782 0.9776 11:07:31 AM
+FindOverallHighsAndLows() 0.9782 0.9782 0.9776 11:07:46 AM
+FindOverallHighsAndLows() 0.9782 0.9782 0.9776 11:08:00 AM
+FindOverallHighsAndLows() 0.9782 0.9776 0.9774 11:08:19 AM
+FindOverallHighsAndLows() 0.9782 0.9776 0.9774 11:08:34 AM
+FindOverallHighsAndLows() 0.9782 0.9776 0.9774 11:08:51 AM
+FindOverallHighsAndLows() 0.9782 0.9776 0.9774 11:09:07 AM
+FindOverallHighsAndLows() 0.9782 0.9776 0.9774 11:09:23 AM
+FindOverallHighsAndLows() 0.9782 0.9776 0.9774 11:09:38 AM
+FindOverallHighsAndLows() 0.9782 0.9776 0.9774 11:09:53 AM
+FindOverallHighsAndLows() 0.9782 0.9776 0.9774 11:10:08 AM
+FindOverallHighsAndLows() 0.9776 0.9774 0.9773 11:10:27 AM
+FindOverallHighsAndLows() 0.9776 0.9774 0.9773 11:10:41 AM
+FindOverallHighsAndLows() 0.9776 0.9774 0.9773 11:10:56 AM
+FindOverallHighsAndLows() 0.9776 0.9774 0.9773 11:11:10 AM
+FindOverallHighsAndLows() 0.9776 0.9774 0.9773 11:11:25 AM
+FindOverallHighsAndLows() 0.9776 0.9774 0.9773 11:11:40 AM
+FindOverallHighsAndLows() 0.9776 0.9774 0.9773 11:11:54 AM
+FindOverallHighsAndLows() 0.9776 0.9774 0.9773 11:12:10 AM
+FindOverallHighsAndLows() 0.9774 0.9773 0.9773 11:12:27 AM
+FindOverallHighsAndLows() 0.9774 0.9773 0.9773 11:12:43 AM
+FindOverallHighsAndLows() 0.9773 0.9773 0.9776 11:13:00 AM
+Found new low 11:13:00 AM
+CurrVal: h nextLow: 0.9775 nextHigh: 0.9782 nextNextLow: 0.9773
+FindOverallHighsAndLows() 0.9773 0.9773 0.9776 11:13:15 AM
+CurrVal: h nextLow: 0.9775 nextHigh: 0.9782 nextNextLow: 0.9773
+FindOverallHighsAndLows() 0.9773 0.9773 0.9776 11:13:30 AM
+CurrVal: h nextLow: 0.9775 nextHigh: 0.9782 nextNextLow: 0.9773
+FindOverallHighsAndLows() 0.9773 0.9773 0.9776 11:13:47 AM
+CurrVal: h nextLow: 0.9775 nextHigh: 0.9782 nextNextLow: 0.9773
+FindOverallHighsAndLows() 0.9773 0.9773 0.9776 11:14:02 AM
+CurrVal: h nextLow: 0.9775 nextHigh: 0.9782 nextNextLow: 0.9773
+FindOverallHighsAndLows() 0.9773 0.9773 0.9776 11:14:17 AM
+CurrVal: h nextLow: 0.9775 nextHigh: 0.9782 nextNextLow: 0.9773
+FindOverallHighsAndLows() 0.9773 0.9773 0.9776 11:14:32 AM
+CurrVal: h nextLow: 0.9775 nextHigh: 0.9782 nextNextLow: 0.9773
+FindOverallHighsAndLows() 0.9773 0.9773 0.9776 11:14:47 AM
+CurrVal: h nextLow: 0.9775 nextHigh: 0.9782 nextNextLow: 0.9773
+FindOverallHighsAndLows() 0.9773 0.9776 0.9776 11:15:04 AM
+Found new high  11:15:04 AM
+FindOverallHighsAndLows() 0.9773 0.9776 0.9776 11:15:19 AM
+FindOverallHighsAndLows() 0.9773 0.9776 0.9776 11:15:34 AM
+FindOverallHighsAndLows() 0.9773 0.9776 0.9776 11:15:51 AM
+FindOverallHighsAndLows() 0.9773 0.9776 0.9776 11:16:07 AM
+FindOverallHighsAndLows() 0.9773 0.9776 0.9776 11:16:22 AM
+FindOverallHighsAndLows() 0.9773 0.9776 0.9776 11:16:37 AM
+FindOverallHighsAndLows() 0.9773 0.9776 0.9776 11:16:52 AM
+FindOverallHighsAndLows() 0.9776 0.9776 0.9776 11:17:09 AM
+FindOverallHighsAndLows() 0.9776 0.9776 0.9776 11:17:26 AM
+FindOverallHighsAndLows() 0.9776 0.9776 0.9776 11:17:41 AM
+FindOverallHighsAndLows() 0.9776 0.9776 0.9776 11:17:56 AM
+FindOverallHighsAndLows() 0.9776 0.9776 0.9776 11:18:11 AM
+FindOverallHighsAndLows() 0.9776 0.9776 0.9776 11:18:26 AM
+FindOverallHighsAndLows() 0.9776 0.9776 0.9776 11:18:41 AM
+FindOverallHighsAndLows() 0.9776 0.9776 0.9776 11:18:57 AM
+FindOverallHighsAndLows() 0.9776 0.9776 0.9773 11:21:15 AM
+FindOverallHighsAndLows() 0.9776 0.9776 0.9773 11:21:31 AM
+FindOverallHighsAndLows() 0.9776 0.9776 0.9773 11:21:46 AM
+FindOverallHighsAndLows() 0.9776 0.9776 0.9773 11:22:01 AM
+FindOverallHighsAndLows() 0.9776 0.9776 0.9773 11:22:16 AM
+FindOverallHighsAndLows() 0.9776 0.9776 0.9773 11:22:31 AM
+FindOverallHighsAndLows() 0.9776 0.9776 0.9773 11:22:46 AM
+FindOverallHighsAndLows() 0.9776 0.9776 0.9773 11:23:01 AM
+FindOverallHighsAndLows() 0.9776 0.9773 0.9772 11:23:17 AM
+FindOverallHighsAndLows() 0.9776 0.9773 0.9772 11:23:32 AM
+FindOverallHighsAndLows() 0.9776 0.9773 0.9772 11:23:48 AM
+FindOverallHighsAndLows() 0.9776 0.9773 0.9772 11:24:04 AM
+FindOverallHighsAndLows() 0.9776 0.9773 0.9772 11:24:19 AM
+FindOverallHighsAndLows() 0.9776 0.9773 0.9772 11:24:34 AM
+FindOverallHighsAndLows() 0.9776 0.9773 0.9772 11:24:50 AM
+FindOverallHighsAndLows() 0.9776 0.9773 0.9772 11:25:05 AM
+FindOverallHighsAndLows() 0.9773 0.9772 0.9767 11:26:50 AM
+FindOverallHighsAndLows() 0.9773 0.9772 0.9767 11:27:06 AM
+FindOverallHighsAndLows() 0.9773 0.9772 0.9767 11:27:22 AM
+FindOverallHighsAndLows() 0.9773 0.9772 0.9767 11:27:37 AM
+FindOverallHighsAndLows() 0.9773 0.9772 0.9767 11:27:52 AM
+FindOverallHighsAndLows() 0.9773 0.9772 0.9767 11:28:07 AM
+FindOverallHighsAndLows() 0.9773 0.9772 0.9767 11:28:22 AM
+FindOverallHighsAndLows() 0.9773 0.9772 0.9767 11:28:37 AM
+FindOverallHighsAndLows() 0.9772 0.9767 0.9761 11:28:55 AM
+FindOverallHighsAndLows() 0.9772 0.9767 0.9761 11:29:10 AM
+FindOverallHighsAndLows() 0.9772 0.9767 0.9761 11:29:25 AM
+FindOverallHighsAndLows() 0.9772 0.9767 0.9761 11:29:40 AM
+FindOverallHighsAndLows() 0.9772 0.9767 0.9761 11:29:55 AM
+FindOverallHighsAndLows() 0.9772 0.9767 0.9761 11:30:11 AM
+FindOverallHighsAndLows() 0.9772 0.9767 0.9761 11:30:26 AM
+FindOverallHighsAndLows() 0.9772 0.9767 0.9761 11:30:41 AM
+FindOverallHighsAndLows() 0.9767 0.9761 0.9763 11:30:56 AM
+Found new low 11:30:56 AM
+CurrVal: h nextLow: 0.9773 nextHigh: 0.9776 nextNextLow: 0.9761
+FindOverallHighsAndLows() 0.9767 0.9761 0.9763 11:31:11 AM
+CurrVal: h nextLow: 0.9773 nextHigh: 0.9776 nextNextLow: 0.9761
+FindOverallHighsAndLows() 0.9767 0.9761 0.9763 11:31:27 AM
+CurrVal: h nextLow: 0.9773 nextHigh: 0.9776 nextNextLow: 0.9761
+FindOverallHighsAndLows() 0.9767 0.9761 0.9763 11:31:42 AM
+CurrVal: h nextLow: 0.9773 nextHigh: 0.9776 nextNextLow: 0.9761
+FindOverallHighsAndLows() 0.9767 0.9761 0.9763 11:31:57 AM
+CurrVal: h nextLow: 0.9773 nextHigh: 0.9776 nextNextLow: 0.9761
+FindOverallHighsAndLows() 0.9761 0.9763 0.9769 11:32:14 AM
+CurrVal: h nextLow: 0.9773 nextHigh: 0.9776 nextNextLow: 0.9761
+FindOverallHighsAndLows() 0.9761 0.9763 0.9769 11:32:29 AM
+CurrVal: h nextLow: 0.9773 nextHigh: 0.9776 nextNextLow: 0.9761
+FindOverallHighsAndLows() 0.9761 0.9763 0.9769 11:32:44 AM
+CurrVal: h nextLow: 0.9773 nextHigh: 0.9776 nextNextLow: 0.9761
+FindOverallHighsAndLows() 0.9761 0.9763 0.9769 11:32:59 AM
+CurrVal: h nextLow: 0.9773 nextHigh: 0.9776 nextNextLow: 0.9761
+FindOverallHighsAndLows() 0.9761 0.9763 0.9769 11:33:14 AM
+CurrVal: h nextLow: 0.9773 nextHigh: 0.9776 nextNextLow: 0.9761
+FindOverallHighsAndLows() 0.9761 0.9763 0.9769 11:33:29 AM
+CurrVal: h nextLow: 0.9773 nextHigh: 0.9776 nextNextLow: 0.9761
+FindOverallHighsAndLows() 0.9761 0.9763 0.9769 11:33:45 AM
+CurrVal: h nextLow: 0.9773 nextHigh: 0.9776 nextNextLow: 0.9761
+FindOverallHighsAndLows() 0.9761 0.9763 0.9769 11:34:00 AM
+CurrVal: h nextLow: 0.9773 nextHigh: 0.9776 nextNextLow: 0.9761
+FindOverallHighsAndLows() 0.9763 0.9769 0.977 11:34:18 AM
+CurrVal: h nextLow: 0.9773 nextHigh: 0.9776 nextNextLow: 0.9761
+FindOverallHighsAndLows() 0.9763 0.9769 0.977 11:34:34 AM
+CurrVal: h nextLow: 0.9773 nextHigh: 0.9776 nextNextLow: 0.9761
+FindOverallHighsAndLows() 0.9763 0.9769 0.977 11:34:49 AM
+CurrVal: h nextLow: 0.9773 nextHigh: 0.9776 nextNextLow: 0.9761
+FindOverallHighsAndLows() 0.9763 0.9769 0.977 11:35:04 AM
+CurrVal: h nextLow: 0.9773 nextHigh: 0.9776 nextNextLow: 0.9761
+FindOverallHighsAndLows() 0.9763 0.9769 0.977 11:35:20 AM
+CurrVal: h nextLow: 0.9773 nextHigh: 0.9776 nextNextLow: 0.9761
+FindOverallHighsAndLows() 0.9763 0.9769 0.977 11:35:36 AM
+CurrVal: h nextLow: 0.9773 nextHigh: 0.9776 nextNextLow: 0.9761
+FindOverallHighsAndLows() 0.9763 0.9769 0.977 11:35:51 AM
+CurrVal: h nextLow: 0.9773 nextHigh: 0.9776 nextNextLow: 0.9761
+FindOverallHighsAndLows() 0.9763 0.9769 0.977 11:36:07 AM
+CurrVal: h nextLow: 0.9773 nextHigh: 0.9776 nextNextLow: 0.9761
+FindOverallHighsAndLows() 0.9769 0.977 0.9774 11:36:25 AM
+CurrVal: h nextLow: 0.9773 nextHigh: 0.9776 nextNextLow: 0.9761
+FindOverallHighsAndLows() 0.9769 0.977 0.9774 11:36:41 AM
+CurrVal: h nextLow: 0.9773 nextHigh: 0.9776 nextNextLow: 0.9761
+FindOverallHighsAndLows() 0.9769 0.977 0.9774 11:36:56 AM
+CurrVal: h nextLow: 0.9773 nextHigh: 0.9776 nextNextLow: 0.9761
+FindOverallHighsAndLows() 0.9769 0.977 0.9774 11:37:11 AM
+CurrVal: h nextLow: 0.9773 nextHigh: 0.9776 nextNextLow: 0.9761
+FindOverallHighsAndLows() 0.9769 0.977 0.9774 11:37:27 AM
+CurrVal: h nextLow: 0.9773 nextHigh: 0.9776 nextNextLow: 0.9761
+FindOverallHighsAndLows() 0.9769 0.977 0.9774 11:37:42 AM
+CurrVal: h nextLow: 0.9773 nextHigh: 0.9776 nextNextLow: 0.9761
+FindOverallHighsAndLows() 0.9769 0.977 0.9774 11:37:57 AM
+CurrVal: h nextLow: 0.9773 nextHigh: 0.9776 nextNextLow: 0.9761
+FindOverallHighsAndLows() 0.9769 0.977 0.9774 11:38:13 AM
+CurrVal: h nextLow: 0.9773 nextHigh: 0.9776 nextNextLow: 0.9761
+FindOverallHighsAndLows() 0.977 0.9774 0.9771 11:38:31 AM
+Found new high  11:38:31 AM
+FindOverallHighsAndLows() 0.977 0.9774 0.9771 11:38:47 AM
+FindOverallHighsAndLows() 0.977 0.9774 0.9771 11:39:02 AM
+FindOverallHighsAndLows() 0.977 0.9774 0.9771 11:39:17 AM
+FindOverallHighsAndLows() 0.977 0.9774 0.9771 11:39:32 AM
+FindOverallHighsAndLows() 0.977 0.9774 0.9771 11:39:47 AM
+FindOverallHighsAndLows() 0.977 0.9774 0.9771 11:40:02 AM
+FindOverallHighsAndLows() 0.977 0.9774 0.9771 11:40:20 AM
+FindOverallHighsAndLows() 0.9774 0.9771 0.9772 11:40:36 AM
+Found new low 11:40:36 AM
+CurrVal: h nextLow: 0.9761 nextHigh: 0.9774 nextNextLow: 0.9771
+                                      Found Critical Low 0.9761  LL
+FindOverallHighsAndLows() 0.9774 0.9771 0.9772 11:40:50 AM
+FindOverallHighsAndLows() 0.9774 0.9771 0.9772 11:41:06 AM
+FindOverallHighsAndLows() 0.9774 0.9771 0.9772 11:41:21 AM
+FindOverallHighsAndLows() 0.9774 0.9771 0.9772 11:41:36 AM
+FindOverallHighsAndLows() 0.9774 0.9771 0.9772 11:41:53 AM
+FindOverallHighsAndLows() 0.9774 0.9771 0.9772 11:42:10 AM
+FindOverallHighsAndLows() 0.9774 0.9771 0.9772 11:42:26 AM
+FindOverallHighsAndLows() 0.9774 0.9771 0.9772 11:42:41 AM
+FindOverallHighsAndLows() 0.9774 0.9771 0.9772 11:42:56 AM
+FindOverallHighsAndLows() 0.9774 0.9771 0.9772 11:43:11 AM
+FindOverallHighsAndLows() 0.9774 0.9771 0.9772 11:43:27 AM
+FindOverallHighsAndLows() 0.9774 0.9771 0.9772 11:43:42 AM
+FindOverallHighsAndLows() 0.9774 0.9771 0.9772 11:43:57 AM
+FindOverallHighsAndLows() 0.9771 0.9772 0.977 11:44:14 AM
+Found new high  11:44:14 AM
+CurrVal: l High : 0.9774 nextLow: 0.9771 nextHigh: 0.9772
+                                         Found Critical High 0.9774  LH
+FindOverallHighsAndLows() 0.9771 0.9772 0.977 11:44:29 AM
+FindOverallHighsAndLows() 0.9771 0.9772 0.977 11:44:44 AM
+FindOverallHighsAndLows() 0.9771 0.9772 0.977 11:45:00 AM
+FindOverallHighsAndLows() 0.9771 0.9772 0.977 11:45:15 AM
+FindOverallHighsAndLows() 0.9771 0.9772 0.977 11:45:30 AM
+FindOverallHighsAndLows() 0.9771 0.9772 0.977 11:45:44 AM
+FindOverallHighsAndLows() 0.9771 0.9772 0.977 11:45:59 AM
+FindOverallHighsAndLows() 0.9772 0.977 0.977 11:46:17 AM
+FindOverallHighsAndLows() 0.9772 0.977 0.977 11:46:33 AM
+FindOverallHighsAndLows() 0.9772 0.977 0.977 11:46:48 AM
+FindOverallHighsAndLows() 0.9772 0.977 0.977 11:47:03 AM
+FindOverallHighsAndLows() 0.9772 0.977 0.977 11:47:19 AM
+FindOverallHighsAndLows() 0.9772 0.977 0.977 11:47:35 AM
+FindOverallHighsAndLows() 0.9772 0.977 0.977 11:47:49 AM
+FindOverallHighsAndLows() 0.9772 0.977 0.977 11:48:04 AM
+FindOverallHighsAndLows() 0.977 0.977 0.9771 11:48:22 AM
+Found new low 11:48:22 AM
+CurrVal: h nextLow: 0.9771 nextHigh: 0.9772 nextNextLow: 0.977
+FindOverallHighsAndLows() 0.977 0.977 0.9771 11:48:37 AM
+CurrVal: h nextLow: 0.9771 nextHigh: 0.9772 nextNextLow: 0.977
+FindOverallHighsAndLows() 0.977 0.977 0.9771 11:48:52 AM
+CurrVal: h nextLow: 0.9771 nextHigh: 0.9772 nextNextLow: 0.977
+FindOverallHighsAndLows() 0.977 0.977 0.9771 11:49:07 AM
+CurrVal: h nextLow: 0.9771 nextHigh: 0.9772 nextNextLow: 0.977
+FindOverallHighsAndLows() 0.977 0.977 0.9771 11:49:21 AM
+CurrVal: h nextLow: 0.9771 nextHigh: 0.9772 nextNextLow: 0.977
+FindOverallHighsAndLows() 0.977 0.977 0.9771 11:49:36 AM
+CurrVal: h nextLow: 0.9771 nextHigh: 0.9772 nextNextLow: 0.977
+FindOverallHighsAndLows() 0.977 0.977 0.9771 11:49:52 AM
+CurrVal: h nextLow: 0.9771 nextHigh: 0.9772 nextNextLow: 0.977
+FindOverallHighsAndLows() 0.977 0.977 0.9771 11:50:07 AM
+CurrVal: h nextLow: 0.9771 nextHigh: 0.9772 nextNextLow: 0.977
+FindOverallHighsAndLows() 0.977 0.9771 0.9769 11:52:30 AM
+Found new high  11:52:30 AM
+FindOverallHighsAndLows() 0.977 0.9771 0.9769 11:52:45 AM
+FindOverallHighsAndLows() 0.977 0.9771 0.9769 11:53:00 AM
+FindOverallHighsAndLows() 0.977 0.9771 0.9769 11:53:15 AM
+FindOverallHighsAndLows() 0.977 0.9771 0.9769 11:53:30 AM
+FindOverallHighsAndLows() 0.977 0.9771 0.9769 11:53:45 AM
+FindOverallHighsAndLows() 0.977 0.9771 0.9769 11:54:05 AM
+FindOverallHighsAndLows() 0.977 0.9771 0.9769 11:54:21 AM
+FindOverallHighsAndLows() 0.9771 0.9769 0.9772 11:54:36 AM
+Found new low 11:54:36 AM
+CurrVal: h nextLow: 0.977 nextHigh: 0.9771 nextNextLow: 0.9769
+FindOverallHighsAndLows() 0.9771 0.9769 0.9772 11:54:52 AM
+CurrVal: h nextLow: 0.977 nextHigh: 0.9771 nextNextLow: 0.9769
+FindOverallHighsAndLows() 0.9771 0.9769 0.9772 11:55:07 AM
+CurrVal: h nextLow: 0.977 nextHigh: 0.9771 nextNextLow: 0.9769
+FindOverallHighsAndLows() 0.9771 0.9769 0.9772 11:55:22 AM
+CurrVal: h nextLow: 0.977 nextHigh: 0.9771 nextNextLow: 0.9769
+FindOverallHighsAndLows() 0.9771 0.9769 0.9772 11:55:37 AM
+CurrVal: h nextLow: 0.977 nextHigh: 0.9771 nextNextLow: 0.9769
+FindOverallHighsAndLows() 0.9771 0.9769 0.9772 11:55:52 AM
+CurrVal: h nextLow: 0.977 nextHigh: 0.9771 nextNextLow: 0.9769
+FindOverallHighsAndLows() 0.9771 0.9769 0.9772 11:56:08 AM
+CurrVal: h nextLow: 0.977 nextHigh: 0.9771 nextNextLow: 0.9769
+FindOverallHighsAndLows() 0.9771 0.9769 0.9772 11:56:25 AM
+CurrVal: h nextLow: 0.977 nextHigh: 0.9771 nextNextLow: 0.9769
+FindOverallHighsAndLows() 0.9769 0.9772 0.9768 11:56:43 AM
+Found new high  11:56:43 AM
+FindOverallHighsAndLows() 0.9769 0.9772 0.9768 11:56:58 AM
+FindOverallHighsAndLows() 0.9769 0.9772 0.9768 11:57:13 AM
+FindOverallHighsAndLows() 0.9769 0.9772 0.9768 11:57:29 AM
+FindOverallHighsAndLows() 0.9769 0.9772 0.9768 11:57:45 AM
+FindOverallHighsAndLows() 0.9769 0.9772 0.9768 11:58:00 AM
+FindOverallHighsAndLows() 0.9769 0.9772 0.9768 11:58:14 AM
+FindOverallHighsAndLows() 0.9769 0.9772 0.9768 11:58:28 AM
+FindOverallHighsAndLows() 0.9772 0.9768 0.9775 12:00:51 PM
+Found new low 12:00:51 PM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.9772 nextNextLow: 0.9768
+FindOverallHighsAndLows() 0.9772 0.9768 0.9775 12:01:07 PM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.9772 nextNextLow: 0.9768
+FindOverallHighsAndLows() 0.9772 0.9768 0.9775 12:01:23 PM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.9772 nextNextLow: 0.9768
+FindOverallHighsAndLows() 0.9772 0.9768 0.9775 12:01:39 PM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.9772 nextNextLow: 0.9768
+FindOverallHighsAndLows() 0.9772 0.9768 0.9775 12:01:54 PM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.9772 nextNextLow: 0.9768
+FindOverallHighsAndLows() 0.9772 0.9768 0.9775 12:02:09 PM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.9772 nextNextLow: 0.9768
+FindOverallHighsAndLows() 0.9772 0.9768 0.9775 12:02:25 PM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.9772 nextNextLow: 0.9768
+FindOverallHighsAndLows() 0.9772 0.9768 0.9775 12:02:40 PM
+CurrVal: h nextLow: 0.9769 nextHigh: 0.9772 nextNextLow: 0.9768
+FindOverallHighsAndLows() 0.9768 0.9775 0.977 12:02:59 PM
+Found new high  12:02:59 PM
+FindOverallHighsAndLows() 0.9768 0.9775 0.977 12:03:14 PM
+FindOverallHighsAndLows() 0.9768 0.9775 0.977 12:03:29 PM
+FindOverallHighsAndLows() 0.9768 0.9775 0.977 12:03:45 PM
+FindOverallHighsAndLows() 0.9768 0.9775 0.977 12:04:00 PM
+FindOverallHighsAndLows() 0.9768 0.9775 0.977 12:04:16 PM
+FindOverallHighsAndLows() 0.9768 0.9775 0.977 12:04:32 PM
+FindOverallHighsAndLows() 0.9768 0.9775 0.977 12:04:47 PM
+FindOverallHighsAndLows() 0.9775 0.977 0.9768 12:05:12 PM
+FindOverallHighsAndLows() 0.9775 0.977 0.9768 12:05:36 PM
+FindOverallHighsAndLows() 0.9775 0.977 0.9768 12:05:52 PM
+FindOverallHighsAndLows() 0.9775 0.977 0.9768 12:06:08 PM
+FindOverallHighsAndLows() 0.9775 0.977 0.9768 12:06:24 PM
+FindOverallHighsAndLows() 0.9775 0.977 0.9768 12:06:40 PM
+FindOverallHighsAndLows() 0.9775 0.977 0.9768 12:06:58 PM
+FindOverallHighsAndLows() 0.977 0.9768 0.977 12:07:25 PM
+Found new low 12:07:25 PM
+CurrVal: h nextLow: 0.9768 nextHigh: 0.9775 nextNextLow: 0.9768
+FindOverallHighsAndLows() 0.977 0.9768 0.977 12:07:42 PM
+CurrVal: h nextLow: 0.9768 nextHigh: 0.9775 nextNextLow: 0.9768
+FindOverallHighsAndLows() 0.977 0.9768 0.977 12:08:01 PM
+CurrVal: h nextLow: 0.9768 nextHigh: 0.9775 nextNextLow: 0.9768
+FindOverallHighsAndLows() 0.977 0.9768 0.977 12:08:18 PM
+CurrVal: h nextLow: 0.9768 nextHigh: 0.9775 nextNextLow: 0.9768
+FindOverallHighsAndLows() 0.977 0.9768 0.977 12:08:35 PM
+CurrVal: h nextLow: 0.9768 nextHigh: 0.9775 nextNextLow: 0.9768
+FindOverallHighsAndLows() 0.977 0.9768 0.977 12:08:51 PM
+CurrVal: h nextLow: 0.9768 nextHigh: 0.9775 nextNextLow: 0.9768
+FindOverallHighsAndLows() 0.977 0.9768 0.977 12:09:07 PM
+CurrVal: h nextLow: 0.9768 nextHigh: 0.9775 nextNextLow: 0.9768
+FindOverallHighsAndLows() 0.9768 0.977 0.9766 12:09:24 PM
+Found new high  12:09:24 PM
+FindOverallHighsAndLows() 0.9768 0.977 0.9766 12:09:40 PM
+FindOverallHighsAndLows() 0.9768 0.977 0.9766 12:09:55 PM
+FindOverallHighsAndLows() 0.9768 0.977 0.9766 12:10:11 PM
+FindOverallHighsAndLows() 0.9768 0.977 0.9766 12:10:27 PM
+FindOverallHighsAndLows() 0.9768 0.977 0.9766 12:10:43 PM
+FindOverallHighsAndLows() 0.9768 0.977 0.9766 12:10:59 PM
+FindOverallHighsAndLows() 0.9768 0.977 0.9766 12:11:13 PM
+FindOverallHighsAndLows() 0.977 0.9766 0.9772 12:11:32 PM
+Found new low 12:11:32 PM
+CurrVal: h nextLow: 0.9768 nextHigh: 0.977 nextNextLow: 0.9766
+FindOverallHighsAndLows() 0.977 0.9766 0.9772 12:11:48 PM
+CurrVal: h nextLow: 0.9768 nextHigh: 0.977 nextNextLow: 0.9766
+FindOverallHighsAndLows() 0.977 0.9766 0.9772 12:12:03 PM
+CurrVal: h nextLow: 0.9768 nextHigh: 0.977 nextNextLow: 0.9766
+FindOverallHighsAndLows() 0.977 0.9766 0.9772 12:12:18 PM
+CurrVal: h nextLow: 0.9768 nextHigh: 0.977 nextNextLow: 0.9766
+FindOverallHighsAndLows() 0.977 0.9766 0.9772 12:12:33 PM
+CurrVal: h nextLow: 0.9768 nextHigh: 0.977 nextNextLow: 0.9766
+FindOverallHighsAndLows() 0.977 0.9766 0.9772 12:12:49 PM
+CurrVal: h nextLow: 0.9768 nextHigh: 0.977 nextNextLow: 0.9766
+FindOverallHighsAndLows() 0.977 0.9766 0.9772 12:13:06 PM
+CurrVal: h nextLow: 0.9768 nextHigh: 0.977 nextNextLow: 0.9766
+FindOverallHighsAndLows() 0.977 0.9766 0.9772 12:13:21 PM
+CurrVal: h nextLow: 0.9768 nextHigh: 0.977 nextNextLow: 0.9766
+FindOverallHighsAndLows() 0.9766 0.9772 0.9768 12:13:39 PM
+Found new high  12:13:39 PM
+FindOverallHighsAndLows() 0.9766 0.9772 0.9768 12:13:55 PM
+FindOverallHighsAndLows() 0.9766 0.9772 0.9768 12:14:11 PM
+FindOverallHighsAndLows() 0.9766 0.9772 0.9768 12:14:26 PM
+FindOverallHighsAndLows() 0.9766 0.9772 0.9768 12:14:42 PM
+FindOverallHighsAndLows() 0.9766 0.9772 0.9768 12:14:58 PM
+FindOverallHighsAndLows() 0.9766 0.9772 0.9768 12:15:13 PM
+FindOverallHighsAndLows() 0.9766 0.9772 0.9768 12:15:29 PM
+FindOverallHighsAndLows() 0.9772 0.9768 0.9764 12:15:44 PM
+FindOverallHighsAndLows() 0.9772 0.9768 0.9764 12:16:00 PM
+FindOverallHighsAndLows() 0.9772 0.9768 0.9764 12:16:15 PM
+FindOverallHighsAndLows() 0.9772 0.9768 0.9764 12:16:31 PM
+FindOverallHighsAndLows() 0.9772 0.9768 0.9764 12:16:47 PM
+FindOverallHighsAndLows() 0.9772 0.9768 0.9764 12:17:03 PM
+FindOverallHighsAndLows() 0.9772 0.9768 0.9764 12:17:18 PM
+FindOverallHighsAndLows() 0.9772 0.9768 0.9764 12:17:34 PM
+FindOverallHighsAndLows() 0.9768 0.9764 0.9765 12:17:52 PM
+Found new low 12:17:52 PM
+CurrVal: h nextLow: 0.9766 nextHigh: 0.9772 nextNextLow: 0.9764
+FindOverallHighsAndLows() 0.9768 0.9764 0.9765 12:18:08 PM
+CurrVal: h nextLow: 0.9766 nextHigh: 0.9772 nextNextLow: 0.9764
+FindOverallHighsAndLows() 0.9768 0.9764 0.9765 12:18:24 PM
+CurrVal: h nextLow: 0.9766 nextHigh: 0.9772 nextNextLow: 0.9764
+FindOverallHighsAndLows() 0.9768 0.9764 0.9765 12:18:39 PM
+CurrVal: h nextLow: 0.9766 nextHigh: 0.9772 nextNextLow: 0.9764
+FindOverallHighsAndLows() 0.9768 0.9764 0.9765 12:18:55 PM
+CurrVal: h nextLow: 0.9766 nextHigh: 0.9772 nextNextLow: 0.9764
+FindOverallHighsAndLows() 0.9768 0.9764 0.9765 12:19:10 PM
+CurrVal: h nextLow: 0.9766 nextHigh: 0.9772 nextNextLow: 0.9764
+FindOverallHighsAndLows() 0.9768 0.9764 0.9765 12:19:27 PM
+CurrVal: h nextLow: 0.9766 nextHigh: 0.9772 nextNextLow: 0.9764
+FindOverallHighsAndLows() 0.9768 0.9764 0.9765 12:19:42 PM
+CurrVal: h nextLow: 0.9766 nextHigh: 0.9772 nextNextLow: 0.9764
+FindOverallHighsAndLows() 0.9764 0.9765 0.9765 12:20:05 PM
+Found new high  12:20:05 PM
+FindOverallHighsAndLows() 0.9764 0.9765 0.9765 12:20:21 PM
+FindOverallHighsAndLows() 0.9764 0.9765 0.9765 12:20:39 PM
+FindOverallHighsAndLows() 0.9764 0.9765 0.9765 12:20:56 PM
+FindOverallHighsAndLows() 0.9764 0.9765 0.9765 12:21:13 PM
+FindOverallHighsAndLows() 0.9764 0.9765 0.9765 12:21:31 PM
+FindOverallHighsAndLows() 0.9764 0.9765 0.9765 12:21:48 PM
+FindOverallHighsAndLows() 0.9765 0.9765 0.9765 12:22:07 PM
+FindOverallHighsAndLows() 0.9765 0.9765 0.9765 12:22:23 PM
+FindOverallHighsAndLows() 0.9765 0.9765 0.9765 12:22:39 PM
+FindOverallHighsAndLows() 0.9765 0.9765 0.9765 12:22:55 PM
+FindOverallHighsAndLows() 0.9765 0.9765 0.9765 12:23:10 PM
+FindOverallHighsAndLows() 0.9765 0.9765 0.9765 12:23:25 PM
+FindOverallHighsAndLows() 0.9765 0.9765 0.9765 12:23:41 PM
+FindOverallHighsAndLows() 0.9765 0.9765 0.9765 12:23:57 PM
+FindOverallHighsAndLows() 0.9765 0.9765 0.9762 12:24:13 PM
+FindOverallHighsAndLows() 0.9765 0.9765 0.9762 12:24:28 PM
+FindOverallHighsAndLows() 0.9765 0.9765 0.9762 12:24:44 PM
+FindOverallHighsAndLows() 0.9765 0.9765 0.9762 12:24:59 PM
+FindOverallHighsAndLows() 0.9765 0.9765 0.9762 12:25:15 PM
+FindOverallHighsAndLows() 0.9765 0.9765 0.9762 12:25:31 PM
+FindOverallHighsAndLows() 0.9765 0.9765 0.9762 12:25:46 PM
+FindOverallHighsAndLows() 0.9765 0.9765 0.9762 12:26:02 PM
+FindOverallHighsAndLows() 0.9765 0.9762 0.9766 12:26:20 PM
+Found new low 12:26:20 PM
+CurrVal: h nextLow: 0.9764 nextHigh: 0.9765 nextNextLow: 0.9762
+FindOverallHighsAndLows() 0.9765 0.9762 0.9766 12:26:36 PM
+CurrVal: h nextLow: 0.9764 nextHigh: 0.9765 nextNextLow: 0.9762
+FindOverallHighsAndLows() 0.9765 0.9762 0.9766 12:26:51 PM
+CurrVal: h nextLow: 0.9764 nextHigh: 0.9765 nextNextLow: 0.9762
+FindOverallHighsAndLows() 0.9765 0.9762 0.9766 12:27:07 PM
+CurrVal: h nextLow: 0.9764 nextHigh: 0.9765 nextNextLow: 0.9762
+FindOverallHighsAndLows() 0.9765 0.9762 0.9766 12:27:24 PM
+CurrVal: h nextLow: 0.9764 nextHigh: 0.9765 nextNextLow: 0.9762
+FindOverallHighsAndLows() 0.9765 0.9762 0.9766 12:27:39 PM
+CurrVal: h nextLow: 0.9764 nextHigh: 0.9765 nextNextLow: 0.9762
+FindOverallHighsAndLows() 0.9765 0.9762 0.9766 12:27:54 PM
+CurrVal: h nextLow: 0.9764 nextHigh: 0.9765 nextNextLow: 0.9762
+FindOverallHighsAndLows() 0.9765 0.9762 0.9766 12:28:10 PM
+CurrVal: h nextLow: 0.9764 nextHigh: 0.9765 nextNextLow: 0.9762
+FindOverallHighsAndLows() 0.9762 0.9766 0.9764 12:28:29 PM
+Found new high  12:28:29 PM
+FindOverallHighsAndLows() 0.9762 0.9766 0.9764 12:28:44 PM
+FindOverallHighsAndLows() 0.9762 0.9766 0.9764 12:29:01 PM
+FindOverallHighsAndLows() 0.9762 0.9766 0.9764 12:29:17 PM
+FindOverallHighsAndLows() 0.9762 0.9766 0.9764 12:29:33 PM
+FindOverallHighsAndLows() 0.9762 0.9766 0.9764 12:29:48 PM
+FindOverallHighsAndLows() 0.9762 0.9766 0.9764 12:30:04 PM
+FindOverallHighsAndLows() 0.9762 0.9766 0.9764 12:30:21 PM
+FindOverallHighsAndLows() 0.9762 0.9766 0.9764 12:30:37 PM
+FindOverallHighsAndLows() 0.9762 0.9766 0.9764 12:30:53 PM
+FindOverallHighsAndLows() 0.9766 0.9764 0.9766 12:31:12 PM
+Found new low 12:31:12 PM
+CurrVal: h nextLow: 0.9762 nextHigh: 0.9766 nextNextLow: 0.9764
+
+!!!!!!!!!BUYING Curr H step 6: 12:31:12 PM
+
+Buying Value: 0.9766
+                                           Profit: 0.0900000000000012 12:31:12 PM
+
+Buy in Value(to sell): 0.9766
+HandlePortfolioAndHistory() 12:31:12 PM
+                                      Found Critical Low 0.9762  HL
+FindOverallHighsAndLows() 0.9766 0.9764 0.9766 12:31:28 PM
+FindOverallHighsAndLows() 0.9766 0.9764 0.9766 12:31:45 PM
+FindOverallHighsAndLows() 0.9766 0.9764 0.9766 12:32:02 PM
+FindOverallHighsAndLows() 0.9766 0.9764 0.9766 12:32:18 PM
+FindOverallHighsAndLows() 0.9766 0.9764 0.9766 12:32:35 PM
+FindOverallHighsAndLows() 0.9766 0.9764 0.9766 12:32:52 PM
+FindOverallHighsAndLows() 0.9766 0.9764 0.9766 12:33:09 PM
+FindOverallHighsAndLows() 0.9764 0.9766 0.9771 12:33:28 PM
+FindOverallHighsAndLows() 0.9764 0.9766 0.9771 12:33:44 PM
+FindOverallHighsAndLows() 0.9764 0.9766 0.9771 12:34:01 PM
+FindOverallHighsAndLows() 0.9764 0.9766 0.9771 12:34:17 PM
+FindOverallHighsAndLows() 0.9764 0.9766 0.9771 12:34:33 PM
+FindOverallHighsAndLows() 0.9764 0.9766 0.9771 12:34:49 PM
+FindOverallHighsAndLows() 0.9764 0.9766 0.9771 12:35:04 PM
+FindOverallHighsAndLows() 0.9764 0.9766 0.9771 12:35:18 PM
+FindOverallHighsAndLows() 0.9766 0.9771 0.977 12:35:35 PM
+Found new high  12:35:35 PM
+CurrVal: l High : 0.9766 nextLow: 0.9764 nextHigh: 0.9771
+FindOverallHighsAndLows() 0.9766 0.9771 0.977 12:35:50 PM
+CurrVal: l High : 0.9766 nextLow: 0.9764 nextHigh: 0.9771
+FindOverallHighsAndLows() 0.9766 0.9771 0.977 12:36:06 PM
+CurrVal: l High : 0.9766 nextLow: 0.9764 nextHigh: 0.9771
+FindOverallHighsAndLows() 0.9766 0.9771 0.977 12:36:22 PM
+CurrVal: l High : 0.9766 nextLow: 0.9764 nextHigh: 0.9771
+FindOverallHighsAndLows() 0.9766 0.9771 0.977 12:36:38 PM
+CurrVal: l High : 0.9766 nextLow: 0.9764 nextHigh: 0.9771
+FindOverallHighsAndLows() 0.9766 0.9771 0.977 12:36:54 PM
+CurrVal: l High : 0.9766 nextLow: 0.9764 nextHigh: 0.9771
+FindOverallHighsAndLows() 0.9766 0.9771 0.977 12:37:09 PM
+CurrVal: l High : 0.9766 nextLow: 0.9764 nextHigh: 0.9771
+FindOverallHighsAndLows() 0.9766 0.9771 0.977 12:37:25 PM
+CurrVal: l High : 0.9766 nextLow: 0.9764 nextHigh: 0.9771
+FindOverallHighsAndLows() 0.9771 0.977 0.9774 12:37:43 PM
+Found new low 12:37:43 PM
+FindOverallHighsAndLows() 0.9771 0.977 0.9774 12:37:58 PM
+FindOverallHighsAndLows() 0.9771 0.977 0.9774 12:38:14 PM
+FindOverallHighsAndLows() 0.9771 0.977 0.9774 12:38:29 PM
+FindOverallHighsAndLows() 0.9771 0.977 0.9774 12:38:44 PM
+FindOverallHighsAndLows() 0.9771 0.977 0.9774 12:39:00 PM
+FindOverallHighsAndLows() 0.9771 0.977 0.9774 12:39:15 PM
+FindOverallHighsAndLows() 0.9771 0.977 0.9774 12:39:31 PM
+FindOverallHighsAndLows() 0.977 0.9774 0.9781 12:39:48 PM
+FindOverallHighsAndLows() 0.977 0.9774 0.9781 12:40:04 PM
+FindOverallHighsAndLows() 0.977 0.9774 0.9781 12:40:19 PM
+FindOverallHighsAndLows() 0.977 0.9774 0.9781 12:40:35 PM
+FindOverallHighsAndLows() 0.977 0.9774 0.9781 12:40:50 PM
+FindOverallHighsAndLows() 0.977 0.9774 0.9781 12:41:05 PM
+FindOverallHighsAndLows() 0.977 0.9774 0.9781 12:41:21 PM
+FindOverallHighsAndLows() 0.977 0.9774 0.9781 12:41:36 PM
+FindOverallHighsAndLows() 0.9774 0.9781 0.9781 12:41:54 PM
+Found new high  12:41:54 PM
+CurrVal: l High : 0.9771 nextLow: 0.977 nextHigh: 0.9781
+FindOverallHighsAndLows() 0.9774 0.9781 0.9781 12:42:09 PM
+CurrVal: l High : 0.9771 nextLow: 0.977 nextHigh: 0.9781
+FindOverallHighsAndLows() 0.9774 0.9781 0.9781 12:42:24 PM
+CurrVal: l High : 0.9771 nextLow: 0.977 nextHigh: 0.9781
+FindOverallHighsAndLows() 0.9774 0.9781 0.9781 12:42:40 PM
+CurrVal: l High : 0.9771 nextLow: 0.977 nextHigh: 0.9781
+FindOverallHighsAndLows() 0.9774 0.9781 0.9781 12:42:55 PM
+CurrVal: l High : 0.9771 nextLow: 0.977 nextHigh: 0.9781
+FindOverallHighsAndLows() 0.9774 0.9781 0.9781 12:43:11 PM
+CurrVal: l High : 0.9771 nextLow: 0.977 nextHigh: 0.9781
+FindOverallHighsAndLows() 0.9774 0.9781 0.9781 12:43:27 PM
+CurrVal: l High : 0.9771 nextLow: 0.977 nextHigh: 0.9781
+FindOverallHighsAndLows() 0.9774 0.9781 0.9781 12:43:42 PM
+CurrVal: l High : 0.9771 nextLow: 0.977 nextHigh: 0.9781
+FindOverallHighsAndLows() 0.9781 0.9781 0.9775 12:44:02 PM
+CurrVal: l High : 0.9771 nextLow: 0.977 nextHigh: 0.9781
+FindOverallHighsAndLows() 0.9781 0.9781 0.9775 12:44:19 PM
+CurrVal: l High : 0.9771 nextLow: 0.977 nextHigh: 0.9781
+FindOverallHighsAndLows() 0.9781 0.9781 0.9775 12:44:35 PM
+CurrVal: l High : 0.9771 nextLow: 0.977 nextHigh: 0.9781
+FindOverallHighsAndLows() 0.9781 0.9781 0.9775 12:44:50 PM
+CurrVal: l High : 0.9771 nextLow: 0.977 nextHigh: 0.9781
+FindOverallHighsAndLows() 0.9781 0.9781 0.9775 12:45:05 PM
+CurrVal: l High : 0.9771 nextLow: 0.977 nextHigh: 0.9781
+FindOverallHighsAndLows() 0.9781 0.9781 0.9775 12:45:20 PM
+CurrVal: l High : 0.9771 nextLow: 0.977 nextHigh: 0.9781
+FindOverallHighsAndLows() 0.9781 0.9781 0.9775 12:45:36 PM
+CurrVal: l High : 0.9771 nextLow: 0.977 nextHigh: 0.9781
+FindOverallHighsAndLows() 0.9781 0.9781 0.9775 12:45:52 PM
+CurrVal: l High : 0.9771 nextLow: 0.977 nextHigh: 0.9781
+FindOverallHighsAndLows() 0.9781 0.9775 0.9773 12:46:10 PM
+CurrVal: l High : 0.9771 nextLow: 0.977 nextHigh: 0.9781
+FindOverallHighsAndLows() 0.9781 0.9775 0.9773 12:46:25 PM
+CurrVal: l High : 0.9771 nextLow: 0.977 nextHigh: 0.9781
+FindOverallHighsAndLows() 0.9781 0.9775 0.9773 12:46:41 PM
+CurrVal: l High : 0.9771 nextLow: 0.977 nextHigh: 0.9781
+FindOverallHighsAndLows() 0.9781 0.9775 0.9773 12:46:56 PM
+CurrVal: l High : 0.9771 nextLow: 0.977 nextHigh: 0.9781
+FindOverallHighsAndLows() 0.9781 0.9775 0.9773 12:47:12 PM
+CurrVal: l High : 0.9771 nextLow: 0.977 nextHigh: 0.9781
+FindOverallHighsAndLows() 0.9781 0.9775 0.9773 12:47:27 PM
+CurrVal: l High : 0.9771 nextLow: 0.977 nextHigh: 0.9781
+FindOverallHighsAndLows() 0.9781 0.9775 0.9773 12:47:46 PM
+CurrVal: l High : 0.9771 nextLow: 0.977 nextHigh: 0.9781
+FindOverallHighsAndLows() 0.9781 0.9775 0.9773 12:48:02 PM
+CurrVal: l High : 0.9771 nextLow: 0.977 nextHigh: 0.9781
+FindOverallHighsAndLows() 0.9775 0.9773 0.977 12:48:18 PM
+CurrVal: l High : 0.9771 nextLow: 0.977 nextHigh: 0.9781
+FindOverallHighsAndLows() 0.9775 0.9773 0.977 12:48:33 PM
+CurrVal: l High : 0.9771 nextLow: 0.977 nextHigh: 0.9781
+FindOverallHighsAndLows() 0.9775 0.9773 0.977 12:48:56 PM
+CurrVal: l High : 0.9771 nextLow: 0.977 nextHigh: 0.9781
+FindOverallHighsAndLows() 0.9775 0.9773 0.977 12:49:12 PM
+CurrVal: l High : 0.9771 nextLow: 0.977 nextHigh: 0.9781
+FindOverallHighsAndLows() 0.9775 0.9773 0.977 12:49:27 PM
+CurrVal: l High : 0.9771 nextLow: 0.977 nextHigh: 0.9781
+FindOverallHighsAndLows() 0.9775 0.9773 0.977 12:49:44 PM
+CurrVal: l High : 0.9771 nextLow: 0.977 nextHigh: 0.9781
+FindOverallHighsAndLows() 0.9775 0.9773 0.977 12:50:00 PM
+CurrVal: l High : 0.9771 nextLow: 0.977 nextHigh: 0.9781
+FindOverallHighsAndLows() 0.9775 0.9773 0.977 12:50:15 PM
+CurrVal: l High : 0.9771 nextLow: 0.977 nextHigh: 0.9781
+FindOverallHighsAndLows() 0.9773 0.977 0.9765 12:50:33 PM
+CurrVal: l High : 0.9771 nextLow: 0.977 nextHigh: 0.9781
+FindOverallHighsAndLows() 0.9773 0.977 0.9765 12:50:48 PM
+CurrVal: l High : 0.9771 nextLow: 0.977 nextHigh: 0.9781
+FindOverallHighsAndLows() 0.9773 0.977 0.9765 12:51:05 PM
+CurrVal: l High : 0.9771 nextLow: 0.977 nextHigh: 0.9781
+FindOverallHighsAndLows() 0.9773 0.977 0.9765 12:51:29 PM
+CurrVal: l High : 0.9771 nextLow: 0.977 nextHigh: 0.9781
+FindOverallHighsAndLows() 0.9773 0.977 0.9765 12:51:46 PM
+CurrVal: l High : 0.9771 nextLow: 0.977 nextHigh: 0.9781
+FindOverallHighsAndLows() 0.9773 0.977 0.9765 12:52:02 PM
+CurrVal: l High : 0.9771 nextLow: 0.977 nextHigh: 0.9781
+FindOverallHighsAndLows() 0.9773 0.977 0.9765 12:52:18 PM
+CurrVal: l High : 0.9771 nextLow: 0.977 nextHigh: 0.9781
+FindOverallHighsAndLows() 0.977 0.9765 0.9767 12:52:35 PM
+Found new low 12:52:35 PM
+FindOverallHighsAndLows() 0.977 0.9765 0.9767 12:52:51 PM
+FindOverallHighsAndLows() 0.977 0.9765 0.9767 12:53:07 PM
+FindOverallHighsAndLows() 0.977 0.9765 0.9767 12:53:23 PM
+FindOverallHighsAndLows() 0.977 0.9765 0.9767 12:53:39 PM
+FindOverallHighsAndLows() 0.977 0.9765 0.9767 12:53:54 PM
+FindOverallHighsAndLows() 0.977 0.9765 0.9767 12:54:10 PM
+FindOverallHighsAndLows() 0.977 0.9765 0.9767 12:54:26 PM
+FindOverallHighsAndLows() 0.9765 0.9767 0.9767 12:54:41 PM
+Found new high  12:54:41 PM
+CurrVal: l High : 0.9781 nextLow: 0.9765 nextHigh: 0.9767
+                                        Found Critical High 0.9781  HH
+FindOverallHighsAndLows() 0.9765 0.9767 0.9767 12:54:56 PM
+FindOverallHighsAndLows() 0.9765 0.9767 0.9767 12:55:10 PM
+FindOverallHighsAndLows() 0.9765 0.9767 0.9767 12:55:27 PM
+FindOverallHighsAndLows() 0.9765 0.9767 0.9767 12:55:43 PM
+FindOverallHighsAndLows() 0.9765 0.9767 0.9767 12:55:59 PM
+FindOverallHighsAndLows() 0.9765 0.9767 0.9767 12:56:15 PM
+FindOverallHighsAndLows() 0.9765 0.9767 0.9767 12:56:32 PM
+FindOverallHighsAndLows() 0.9767 0.9767 0.976 12:56:52 PM
+FindOverallHighsAndLows() 0.9767 0.976 0.9756 12:57:10 PM
+FindOverallHighsAndLows() 0.9767 0.976 0.9756 12:57:25 PM
+FindOverallHighsAndLows() 0.9767 0.976 0.9756 12:57:41 PM
+FindOverallHighsAndLows() 0.9767 0.976 0.9756 12:57:56 PM
+FindOverallHighsAndLows() 0.9767 0.976 0.9756 12:58:12 PM
+FindOverallHighsAndLows() 0.9767 0.976 0.9756 12:58:27 PM
+FindOverallHighsAndLows() 0.9767 0.976 0.9756 12:58:43 PM
+FindOverallHighsAndLows() 0.9767 0.976 0.9756 12:58:59 PM
+FindOverallHighsAndLows() 0.976 0.9756 0.9755 12:59:17 PM
+FindOverallHighsAndLows() 0.976 0.9756 0.9755 12:59:32 PM
+FindOverallHighsAndLows() 0.976 0.9756 0.9755 12:59:48 PM
+FindOverallHighsAndLows() 0.976 0.9756 0.9755 1:00:04 PM
+FindOverallHighsAndLows() 0.976 0.9756 0.9755 1:00:19 PM
+FindOverallHighsAndLows() 0.976 0.9756 0.9755 1:00:35 PM
+FindOverallHighsAndLows() 0.976 0.9756 0.9755 1:00:56 PM
+FindOverallHighsAndLows() 0.976 0.9756 0.9755 1:01:12 PM
+FindOverallHighsAndLows() 0.9756 0.9755 0.9762 1:01:31 PM
+Found new low 1:01:31 PM
+CurrVal: h nextLow: 0.9765 nextHigh: 0.9767 nextNextLow: 0.9755
+FindOverallHighsAndLows() 0.9756 0.9755 0.9762 1:01:47 PM
+CurrVal: h nextLow: 0.9765 nextHigh: 0.9767 nextNextLow: 0.9755
+FindOverallHighsAndLows() 0.9756 0.9755 0.9762 1:02:02 PM
+CurrVal: h nextLow: 0.9765 nextHigh: 0.9767 nextNextLow: 0.9755
+FindOverallHighsAndLows() 0.9756 0.9755 0.9762 1:02:18 PM
+CurrVal: h nextLow: 0.9765 nextHigh: 0.9767 nextNextLow: 0.9755
+FindOverallHighsAndLows() 0.9756 0.9755 0.9762 1:02:34 PM
+CurrVal: h nextLow: 0.9765 nextHigh: 0.9767 nextNextLow: 0.9755
+FindOverallHighsAndLows() 0.9756 0.9755 0.9762 1:02:50 PM
+CurrVal: h nextLow: 0.9765 nextHigh: 0.9767 nextNextLow: 0.9755
+FindOverallHighsAndLows() 0.9756 0.9755 0.9762 1:03:05 PM
+CurrVal: h nextLow: 0.9765 nextHigh: 0.9767 nextNextLow: 0.9755
+FindOverallHighsAndLows() 0.9756 0.9755 0.9762 1:03:20 PM
+CurrVal: h nextLow: 0.9765 nextHigh: 0.9767 nextNextLow: 0.9755
+FindOverallHighsAndLows() 0.9755 0.9762 0.9766 1:03:37 PM
+CurrVal: h nextLow: 0.9765 nextHigh: 0.9767 nextNextLow: 0.9755
+FindOverallHighsAndLows() 0.9755 0.9762 0.9766 1:03:53 PM
+CurrVal: h nextLow: 0.9765 nextHigh: 0.9767 nextNextLow: 0.9755
+FindOverallHighsAndLows() 0.9755 0.9762 0.9766 1:04:10 PM
+CurrVal: h nextLow: 0.9765 nextHigh: 0.9767 nextNextLow: 0.9755
+FindOverallHighsAndLows() 0.9755 0.9762 0.9766 1:04:26 PM
+CurrVal: h nextLow: 0.9765 nextHigh: 0.9767 nextNextLow: 0.9755
+FindOverallHighsAndLows() 0.9755 0.9762 0.9766 1:04:42 PM
+CurrVal: h nextLow: 0.9765 nextHigh: 0.9767 nextNextLow: 0.9755
+FindOverallHighsAndLows() 0.9755 0.9762 0.9766 1:04:58 PM
+CurrVal: h nextLow: 0.9765 nextHigh: 0.9767 nextNextLow: 0.9755
+FindOverallHighsAndLows() 0.9755 0.9762 0.9766 1:05:14 PM
+CurrVal: h nextLow: 0.9765 nextHigh: 0.9767 nextNextLow: 0.9755
+FindOverallHighsAndLows() 0.9755 0.9762 0.9766 1:05:30 PM
+CurrVal: h nextLow: 0.9765 nextHigh: 0.9767 nextNextLow: 0.9755
+FindOverallHighsAndLows() 0.9762 0.9766 0.9764 1:05:48 PM
+Found new high  1:05:48 PM
+FindOverallHighsAndLows() 0.9762 0.9766 0.9764 1:06:03 PM
+FindOverallHighsAndLows() 0.9762 0.9766 0.9764 1:06:21 PM
+FindOverallHighsAndLows() 0.9762 0.9766 0.9764 1:06:38 PM
+FindOverallHighsAndLows() 0.9762 0.9766 0.9764 1:06:53 PM
+FindOverallHighsAndLows() 0.9766 0.9764 0.9762 1:07:12 PM
+FindOverallHighsAndLows() 0.9766 0.9764 0.9762 1:07:26 PM
+FindOverallHighsAndLows() 0.9766 0.9764 0.9762 1:07:42 PM
+FindOverallHighsAndLows() 0.9766 0.9764 0.9762 1:07:59 PM
+FindOverallHighsAndLows() 0.9766 0.9764 0.9762 1:08:16 PM
+FindOverallHighsAndLows() 0.9766 0.9764 0.9762 1:08:33 PM
+FindOverallHighsAndLows() 0.9766 0.9764 0.9762 1:08:48 PM
+FindOverallHighsAndLows() 0.9766 0.9764 0.9762 1:09:04 PM
+FindOverallHighsAndLows() 0.9764 0.9762 0.976 1:09:22 PM
+FindOverallHighsAndLows() 0.9764 0.9762 0.976 1:09:39 PM
+FindOverallHighsAndLows() 0.9764 0.9762 0.976 1:09:54 PM
+FindOverallHighsAndLows() 0.9764 0.9762 0.976 1:10:10 PM
+FindOverallHighsAndLows() 0.9764 0.9762 0.976 1:10:26 PM
+FindOverallHighsAndLows() 0.9764 0.9762 0.976 1:10:42 PM
+FindOverallHighsAndLows() 0.9764 0.9762 0.976 1:10:58 PM
+FindOverallHighsAndLows() 0.9764 0.9762 0.976 1:11:13 PM
+FindOverallHighsAndLows() 0.9762 0.976 0.9761 1:11:30 PM
+Found new low 1:11:30 PM
+CurrVal: h nextLow: 0.9755 nextHigh: 0.9766 nextNextLow: 0.976
+                                      Found Critical Low 0.9755  LL
+FindOverallHighsAndLows() 0.9762 0.976 0.9761 1:11:57 PM
+FindOverallHighsAndLows() 0.9762 0.976 0.9761 1:12:12 PM
+FindOverallHighsAndLows() 0.9762 0.976 0.9761 1:12:28 PM
+FindOverallHighsAndLows() 0.9762 0.976 0.9761 1:12:43 PM
+FindOverallHighsAndLows() 0.976 0.9761 0.9761 1:13:04 PM
+Found new high  1:13:04 PM
+CurrVal: l High : 0.9766 nextLow: 0.976 nextHigh: 0.9761
+
+!!!!!!!SELLING Curr L step 6: 1:13:04 PM
+
+Selling Value: 0.9761
+                                                Profit Percentage: -0.0500000000000056 1:13:04 PM
+
+Sell in Value(to buy): 0.9761
+HandlePortfolioAndHistory() 1:13:04 PM
+                                         Found Critical High 0.9766  LH
+FindOverallHighsAndLows() 0.976 0.9761 0.9761 1:13:21 PM
+FindOverallHighsAndLows() 0.976 0.9761 0.9761 1:13:37 PM
+FindOverallHighsAndLows() 0.976 0.9761 0.9761 1:13:52 PM
+FindOverallHighsAndLows() 0.976 0.9761 0.9761 1:14:08 PM
+FindOverallHighsAndLows() 0.976 0.9761 0.9761 1:14:23 PM
+FindOverallHighsAndLows() 0.976 0.9761 0.9761 1:14:39 PM
+FindOverallHighsAndLows() 0.976 0.9761 0.9761 1:14:55 PM
+FindOverallHighsAndLows() 0.9761 0.9761 0.9761 1:15:13 PM
+FindOverallHighsAndLows() 0.9761 0.9761 0.9761 1:15:29 PM
+FindOverallHighsAndLows() 0.9761 0.9761 0.9761 1:15:44 PM
+FindOverallHighsAndLows() 0.9761 0.9761 0.9761 1:16:00 PM
+FindOverallHighsAndLows() 0.9761 0.9761 0.9761 1:16:16 PM
+FindOverallHighsAndLows() 0.9761 0.9761 0.9761 1:16:31 PM
+FindOverallHighsAndLows() 0.9761 0.9761 0.9761 1:16:47 PM
+FindOverallHighsAndLows() 0.9761 0.9761 0.9761 1:17:03 PM
+FindOverallHighsAndLows() 0.9761 0.9761 0.976 1:17:21 PM
+FindOverallHighsAndLows() 0.9761 0.9761 0.976 1:17:37 PM
+FindOverallHighsAndLows() 0.9761 0.9761 0.976 1:17:53 PM
+FindOverallHighsAndLows() 0.9761 0.9761 0.976 1:18:08 PM
+FindOverallHighsAndLows() 0.9761 0.9761 0.976 1:18:25 PM
+FindOverallHighsAndLows() 0.9761 0.9761 0.976 1:18:41 PM
+FindOverallHighsAndLows() 0.9761 0.9761 0.976 1:18:57 PM
+FindOverallHighsAndLows() 0.9761 0.9761 0.976 1:19:12 PM
+FindOverallHighsAndLows() 0.9761 0.976 0.9759 1:19:32 PM
+FindOverallHighsAndLows() 0.9761 0.976 0.9759 1:19:49 PM
+FindOverallHighsAndLows() 0.9761 0.976 0.9759 1:20:06 PM
+FindOverallHighsAndLows() 0.9761 0.976 0.9759 1:20:24 PM
+FindOverallHighsAndLows() 0.9761 0.976 0.9759 1:20:41 PM
+FindOverallHighsAndLows() 0.9761 0.976 0.9759 1:20:57 PM
+FindOverallHighsAndLows() 0.9761 0.976 0.9759 1:21:14 PM
+FindOverallHighsAndLows() 0.976 0.9759 0.9758 1:21:47 PM
+FindOverallHighsAndLows() 0.976 0.9759 0.9758 1:22:03 PM
+FindOverallHighsAndLows() 0.976 0.9759 0.9758 1:22:19 PM
+FindOverallHighsAndLows() 0.976 0.9759 0.9758 1:22:35 PM
+FindOverallHighsAndLows() 0.976 0.9759 0.9758 1:22:51 PM
+FindOverallHighsAndLows() 0.976 0.9759 0.9758 1:23:07 PM
+FindOverallHighsAndLows() 0.976 0.9759 0.9758 1:23:23 PM
+FindOverallHighsAndLows() 0.9759 0.9758 0.9758 1:23:41 PM
+FindOverallHighsAndLows() 0.9759 0.9758 0.9758 1:23:57 PM
+FindOverallHighsAndLows() 0.9759 0.9758 0.9758 1:24:13 PM
+FindOverallHighsAndLows() 0.9759 0.9758 0.9758 1:24:29 PM
+FindOverallHighsAndLows() 0.9759 0.9758 0.9758 1:24:45 PM
+FindOverallHighsAndLows() 0.9759 0.9758 0.9758 1:25:01 PM
+FindOverallHighsAndLows() 0.9759 0.9758 0.9758 1:25:17 PM
+FindOverallHighsAndLows() 0.9759 0.9758 0.9758 1:25:33 PM
+FindOverallHighsAndLows() 0.9758 0.9758 0.9758 1:25:50 PM
+FindOverallHighsAndLows() 0.9758 0.9758 0.9758 1:26:06 PM
+FindOverallHighsAndLows() 0.9758 0.9758 0.9758 1:26:22 PM
+FindOverallHighsAndLows() 0.9758 0.9758 0.9758 1:26:39 PM
+FindOverallHighsAndLows() 0.9758 0.9758 0.976 1:26:56 PM
+Found new low 1:26:56 PM
+CurrVal: h nextLow: 0.976 nextHigh: 0.9761 nextNextLow: 0.9758
+FindOverallHighsAndLows() 0.9758 0.9758 0.976 1:27:13 PM
+CurrVal: h nextLow: 0.976 nextHigh: 0.9761 nextNextLow: 0.9758
+FindOverallHighsAndLows() 0.9758 0.9758 0.976 1:27:30 PM
+CurrVal: h nextLow: 0.976 nextHigh: 0.9761 nextNextLow: 0.9758
+FindOverallHighsAndLows() 0.9758 0.9758 0.976 1:27:46 PM
+CurrVal: h nextLow: 0.976 nextHigh: 0.9761 nextNextLow: 0.9758
+FindOverallHighsAndLows() 0.9758 0.9758 0.976 1:28:04 PM
+CurrVal: h nextLow: 0.976 nextHigh: 0.9761 nextNextLow: 0.9758
+FindOverallHighsAndLows() 0.9758 0.9758 0.976 1:28:20 PM
+CurrVal: h nextLow: 0.976 nextHigh: 0.9761 nextNextLow: 0.9758
+FindOverallHighsAndLows() 0.9758 0.9758 0.976 1:28:38 PM
+CurrVal: h nextLow: 0.976 nextHigh: 0.9761 nextNextLow: 0.9758
+FindOverallHighsAndLows() 0.9758 0.9758 0.976 1:28:57 PM
+CurrVal: h nextLow: 0.976 nextHigh: 0.9761 nextNextLow: 0.9758
+FindOverallHighsAndLows() 0.9758 0.976 0.976 1:29:18 PM
+Found new high  1:29:18 PM
+FindOverallHighsAndLows() 0.9758 0.976 0.976 1:29:34 PM
+FindOverallHighsAndLows() 0.9758 0.976 0.976 1:29:53 PM
+FindOverallHighsAndLows() 0.9758 0.976 0.976 1:30:10 PM
+FindOverallHighsAndLows() 0.9758 0.976 0.976 1:30:32 PM
+FindOverallHighsAndLows() 0.9758 0.976 0.976 1:30:51 PM
+FindOverallHighsAndLows() 0.9758 0.976 0.976 1:31:16 PM
+FindOverallHighsAndLows() 0.976 0.976 0.9757 1:31:37 PM
+FindOverallHighsAndLows() 0.976 0.976 0.9757 1:31:54 PM
+FindOverallHighsAndLows() 0.976 0.976 0.9757 1:32:12 PM
+FindOverallHighsAndLows() 0.976 0.976 0.9757 1:32:29 PM
+FindOverallHighsAndLows() 0.976 0.976 0.9757 1:32:48 PM
+FindOverallHighsAndLows() 0.976 0.976 0.9757 1:33:06 PM
+FindOverallHighsAndLows() 0.976 0.976 0.9757 1:33:23 PM
+FindOverallHighsAndLows() 0.976 0.9757 0.9759 1:33:44 PM
+Found new low 1:33:44 PM
+CurrVal: h nextLow: 0.9758 nextHigh: 0.976 nextNextLow: 0.9757
+FindOverallHighsAndLows() 0.976 0.9757 0.9759 1:34:00 PM
+CurrVal: h nextLow: 0.9758 nextHigh: 0.976 nextNextLow: 0.9757
+FindOverallHighsAndLows() 0.976 0.9757 0.9759 1:34:18 PM
+CurrVal: h nextLow: 0.9758 nextHigh: 0.976 nextNextLow: 0.9757
+FindOverallHighsAndLows() 0.976 0.9757 0.9759 1:34:34 PM
+CurrVal: h nextLow: 0.9758 nextHigh: 0.976 nextNextLow: 0.9757
+FindOverallHighsAndLows() 0.976 0.9757 0.9759 1:34:51 PM
+CurrVal: h nextLow: 0.9758 nextHigh: 0.976 nextNextLow: 0.9757
+FindOverallHighsAndLows() 0.976 0.9757 0.9759 1:35:08 PM
+CurrVal: h nextLow: 0.9758 nextHigh: 0.976 nextNextLow: 0.9757
+FindOverallHighsAndLows() 0.976 0.9757 0.9759 1:35:26 PM
+CurrVal: h nextLow: 0.9758 nextHigh: 0.976 nextNextLow: 0.9757
+FindOverallHighsAndLows() 0.9757 0.9759 0.9755 1:35:46 PM
+Found new high  1:35:46 PM
+FindOverallHighsAndLows() 0.9757 0.9759 0.9755 1:36:02 PM
+FindOverallHighsAndLows() 0.9757 0.9759 0.9755 1:36:22 PM
+FindOverallHighsAndLows() 0.9757 0.9759 0.9755 1:36:40 PM
+FindOverallHighsAndLows() 0.9757 0.9759 0.9755 1:36:59 PM
+FindOverallHighsAndLows() 0.9757 0.9759 0.9755 1:37:16 PM
+FindOverallHighsAndLows() 0.9757 0.9759 0.9755 1:37:32 PM
+FindOverallHighsAndLows() 0.9759 0.9755 0.9754 1:37:51 PM
+FindOverallHighsAndLows() 0.9759 0.9755 0.9754 1:38:08 PM
+FindOverallHighsAndLows() 0.9759 0.9755 0.9754 1:38:24 PM
+FindOverallHighsAndLows() 0.9759 0.9755 0.9754 1:38:40 PM
+FindOverallHighsAndLows() 0.9759 0.9755 0.9754 1:38:56 PM
+FindOverallHighsAndLows() 0.9759 0.9755 0.9754 1:39:13 PM
+FindOverallHighsAndLows() 0.9759 0.9755 0.9754 1:39:29 PM
+FindOverallHighsAndLows() 0.9759 0.9755 0.9754 1:39:45 PM
+FindOverallHighsAndLows() 0.9755 0.9754 0.9754 1:40:00 PM
+FindOverallHighsAndLows() 0.9755 0.9754 0.9754 1:40:17 PM
+FindOverallHighsAndLows() 0.9755 0.9754 0.9754 1:40:32 PM
+FindOverallHighsAndLows() 0.9755 0.9754 0.9754 1:40:49 PM
+FindOverallHighsAndLows() 0.9755 0.9754 0.9754 1:41:04 PM
+FindOverallHighsAndLows() 0.9755 0.9754 0.9754 1:41:27 PM
+FindOverallHighsAndLows() 0.9755 0.9754 0.9754 1:41:43 PM
+FindOverallHighsAndLows() 0.9755 0.9754 0.9754 1:41:58 PM
+FindOverallHighsAndLows() 0.9754 0.9754 0.9749 1:42:17 PM
+FindOverallHighsAndLows() 0.9754 0.9754 0.9749 1:42:32 PM
+FindOverallHighsAndLows() 0.9754 0.9754 0.9749 1:42:49 PM
+FindOverallHighsAndLows() 0.9754 0.9754 0.9749 1:43:05 PM
+FindOverallHighsAndLows() 0.9754 0.9754 0.9749 1:43:21 PM
+FindOverallHighsAndLows() 0.9754 0.9754 0.9749 1:43:36 PM
+FindOverallHighsAndLows() 0.9754 0.9754 0.9749 1:43:51 PM
+FindOverallHighsAndLows() 0.9754 0.9754 0.9749 1:44:07 PM
+FindOverallHighsAndLows() 0.9754 0.9749 0.975 1:44:25 PM
+Found new low 1:44:25 PM
+CurrVal: h nextLow: 0.9757 nextHigh: 0.9759 nextNextLow: 0.9749
+FindOverallHighsAndLows() 0.9754 0.9749 0.975 1:44:42 PM
+CurrVal: h nextLow: 0.9757 nextHigh: 0.9759 nextNextLow: 0.9749
+FindOverallHighsAndLows() 0.9754 0.9749 0.975 1:44:58 PM
+CurrVal: h nextLow: 0.9757 nextHigh: 0.9759 nextNextLow: 0.9749
+FindOverallHighsAndLows() 0.9754 0.9749 0.975 1:45:14 PM
+CurrVal: h nextLow: 0.9757 nextHigh: 0.9759 nextNextLow: 0.9749
+FindOverallHighsAndLows() 0.9754 0.9749 0.975 1:45:30 PM
+CurrVal: h nextLow: 0.9757 nextHigh: 0.9759 nextNextLow: 0.9749
+FindOverallHighsAndLows() 0.9754 0.9749 0.975 1:45:47 PM
+CurrVal: h nextLow: 0.9757 nextHigh: 0.9759 nextNextLow: 0.9749
+FindOverallHighsAndLows() 0.9754 0.9749 0.975 1:46:03 PM
+CurrVal: h nextLow: 0.9757 nextHigh: 0.9759 nextNextLow: 0.9749
+FindOverallHighsAndLows() 0.9754 0.9749 0.975 1:46:20 PM
+CurrVal: h nextLow: 0.9757 nextHigh: 0.9759 nextNextLow: 0.9749
+FindOverallHighsAndLows() 0.9749 0.975 0.9752 1:46:39 PM
+CurrVal: h nextLow: 0.9757 nextHigh: 0.9759 nextNextLow: 0.9749
+FindOverallHighsAndLows() 0.9749 0.975 0.9752 1:46:56 PM
+CurrVal: h nextLow: 0.9757 nextHigh: 0.9759 nextNextLow: 0.9749
+FindOverallHighsAndLows() 0.9749 0.975 0.9752 1:47:16 PM
+CurrVal: h nextLow: 0.9757 nextHigh: 0.9759 nextNextLow: 0.9749
+FindOverallHighsAndLows() 0.9749 0.975 0.9752 1:47:32 PM
+CurrVal: h nextLow: 0.9757 nextHigh: 0.9759 nextNextLow: 0.9749
+FindOverallHighsAndLows() 0.9749 0.975 0.9752 1:47:48 PM
+CurrVal: h nextLow: 0.9757 nextHigh: 0.9759 nextNextLow: 0.9749
+FindOverallHighsAndLows() 0.9749 0.975 0.9752 1:48:06 PM
+CurrVal: h nextLow: 0.9757 nextHigh: 0.9759 nextNextLow: 0.9749
+FindOverallHighsAndLows() 0.9749 0.975 0.9752 1:48:24 PM
+CurrVal: h nextLow: 0.9757 nextHigh: 0.9759 nextNextLow: 0.9749
+FindOverallHighsAndLows() 0.975 0.9752 0.9752 1:48:42 PM
+Found new high  1:48:42 PM
+FindOverallHighsAndLows() 0.975 0.9752 0.9752 1:49:07 PM
+FindOverallHighsAndLows() 0.9752 0.9752 0.9755 1:49:27 PM
+Found new low 1:49:27 PM
+CurrVal: h nextLow: 0.9749 nextHigh: 0.9752 nextNextLow: 0.9752
+                                      Found Critical Low 0.9749  LL
+FindOverallHighsAndLows() 0.9752 0.9752 0.9755 1:49:43 PM
+FindOverallHighsAndLows() 0.9752 0.9752 0.9755 1:50:00 PM
+FindOverallHighsAndLows() 0.9752 0.9752 0.9755 1:50:15 PM
+FindOverallHighsAndLows() 0.9752 0.9752 0.9755 1:50:31 PM
+FindOverallHighsAndLows() 0.9752 0.9752 0.9755 1:50:48 PM
+FindOverallHighsAndLows() 0.9752 0.9752 0.9755 1:51:05 PM
+FindOverallHighsAndLows() 0.9752 0.9752 0.9755 1:51:24 PM
+FindOverallHighsAndLows() 0.9752 0.9755 0.9753 1:51:42 PM
+Found new high  1:51:42 PM
+CurrVal: l High : 0.9752 nextLow: 0.9752 nextHigh: 0.9755
+FindOverallHighsAndLows() 0.9752 0.9755 0.9753 1:51:59 PM
+CurrVal: l High : 0.9752 nextLow: 0.9752 nextHigh: 0.9755
+FindOverallHighsAndLows() 0.9755 0.9753 0.9753 1:52:27 PM
+CurrVal: l High : 0.9752 nextLow: 0.9752 nextHigh: 0.9755
+FindOverallHighsAndLows() 0.9755 0.9753 0.9753 1:52:43 PM
+CurrVal: l High : 0.9752 nextLow: 0.9752 nextHigh: 0.9755
+FindOverallHighsAndLows() 0.9755 0.9753 0.9753 1:53:00 PM
+CurrVal: l High : 0.9752 nextLow: 0.9752 nextHigh: 0.9755
+FindOverallHighsAndLows() 0.9755 0.9753 0.9753 1:53:16 PM
+CurrVal: l High : 0.9752 nextLow: 0.9752 nextHigh: 0.9755
+FindOverallHighsAndLows() 0.9755 0.9753 0.9753 1:53:33 PM
+CurrVal: l High : 0.9752 nextLow: 0.9752 nextHigh: 0.9755
+FindOverallHighsAndLows() 0.9755 0.9753 0.9753 1:53:49 PM
+CurrVal: l High : 0.9752 nextLow: 0.9752 nextHigh: 0.9755
+FindOverallHighsAndLows() 0.9755 0.9753 0.9753 1:54:06 PM
+CurrVal: l High : 0.9752 nextLow: 0.9752 nextHigh: 0.9755
+FindOverallHighsAndLows() 0.9753 0.9753 0.9752 1:54:27 PM
+CurrVal: l High : 0.9752 nextLow: 0.9752 nextHigh: 0.9755
+FindOverallHighsAndLows() 0.9753 0.9753 0.9752 1:54:44 PM
+CurrVal: l High : 0.9752 nextLow: 0.9752 nextHigh: 0.9755
+FindOverallHighsAndLows() 0.9753 0.9753 0.9752 1:55:01 PM
+CurrVal: l High : 0.9752 nextLow: 0.9752 nextHigh: 0.9755
+FindOverallHighsAndLows() 0.9753 0.9753 0.9752 1:55:19 PM
+CurrVal: l High : 0.9752 nextLow: 0.9752 nextHigh: 0.9755
+FindOverallHighsAndLows() 0.9753 0.9753 0.9752 1:55:38 PM
+CurrVal: l High : 0.9752 nextLow: 0.9752 nextHigh: 0.9755
+FindOverallHighsAndLows() 0.9753 0.9753 0.9752 1:55:55 PM
+CurrVal: l High : 0.9752 nextLow: 0.9752 nextHigh: 0.9755
+FindOverallHighsAndLows() 0.9753 0.9753 0.9752 1:56:12 PM
+CurrVal: l High : 0.9752 nextLow: 0.9752 nextHigh: 0.9755
+FindOverallHighsAndLows() 0.9753 0.9752 0.9753 1:56:30 PM
+Found new low 1:56:30 PM
+FindOverallHighsAndLows() 0.9753 0.9752 0.9753 1:56:47 PM
+FindOverallHighsAndLows() 0.9753 0.9752 0.9753 1:57:04 PM
+FindOverallHighsAndLows() 0.9753 0.9752 0.9753 1:57:21 PM
+FindOverallHighsAndLows() 0.9753 0.9752 0.9753 1:57:37 PM
+FindOverallHighsAndLows() 0.9753 0.9752 0.9753 1:57:54 PM
+FindOverallHighsAndLows() 0.9753 0.9752 0.9753 1:58:11 PM
+FindOverallHighsAndLows() 0.9753 0.9752 0.9753 1:58:28 PM
+FindOverallHighsAndLows() 0.9752 0.9753 0.9754 1:58:48 PM
+FindOverallHighsAndLows() 0.9752 0.9753 0.9754 1:59:05 PM
+FindOverallHighsAndLows() 0.9752 0.9753 0.9754 1:59:22 PM
+FindOverallHighsAndLows() 0.9752 0.9753 0.9754 1:59:39 PM

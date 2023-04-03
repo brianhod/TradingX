@@ -1,0 +1,4 @@
+C:\Users\Hein\Documents\Visual Studio 2010\Projects\TradingXTest\TradingXTest\bin\Release\TradingXTest.exe
+C:\Users\Hein\Documents\Visual Studio 2010\Projects\TradingXTest\TradingXTest\bin\Release\TradingXTest.pdb
+C:\Users\Hein\Documents\Visual Studio 2010\Projects\TradingXTest\TradingXTest\obj\x86\Release\TradingXTest.exe
+C:\Users\Hein\Documents\Visual Studio 2010\Projects\TradingXTest\TradingXTest\obj\x86\Release\TradingXTest.pdb
